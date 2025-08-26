@@ -28,3 +28,6 @@ This project is a modern Car Rental Web Application built with React + TypeScrip
 - **Vehicle Images**
 - [Imagin Studio](https://docs.imagin.studio/guides/getting-images/embedding-in-your-website)
 
+# Preview
+
+- [text](https://car-rental-app-red.vercel.app)
