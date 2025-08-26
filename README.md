@@ -30,4 +30,4 @@ This project is a modern Car Rental Web Application built with React + TypeScrip
 
 # Preview
 
-- [text](https://car-rental-app-red.vercel.app)
+- [car-rental-app](https://car-rental-app-red.vercel.app)
