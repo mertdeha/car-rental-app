@@ -1,4 +1,4 @@
 User-agent:*
 Allow: /
-
-Sitemap: https://www.furkanvin.xyz/sitemap.xml
+Disallow: /admin 
+Sitemap: https://car-rental-app-red.vercel.app/sitemap.xml
